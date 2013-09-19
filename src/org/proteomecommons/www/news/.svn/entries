@@ -1,0 +1,52 @@
+8
+
+dir
+778
+svn://www.proteomecommons.org/svn/ProteomeCommons.org/src/org/proteomecommons/www/news
+svn://www.proteomecommons.org/svn/ProteomeCommons.org
+
+
+
+2008-10-22T19:02:24.690507Z
+622
+augie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e919d280-83a1-4560-a36c-9ea0745fa3cd
+
+NewsUtil.java
+file
+
+
+
+
+2008-10-30T18:33:44.000000Z
+f59f5f9e53a43afb055670c4747d1fcc
+2008-10-22T19:02:24.690507Z
+622
+augie
+
+News.java
+file
+
+
+
+
+2008-10-30T18:33:44.000000Z
+4419bf58a166f40685a892e60b944980
+2008-10-21T16:55:14.501376Z
+591
+augie
+

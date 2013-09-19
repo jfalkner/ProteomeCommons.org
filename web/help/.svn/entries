@@ -1,0 +1,52 @@
+8
+
+dir
+778
+svn://www.proteomecommons.org/svn/ProteomeCommons.org/web/help
+svn://www.proteomecommons.org/svn/ProteomeCommons.org
+
+
+
+2008-09-30T22:11:53.645080Z
+362
+augie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e919d280-83a1-4560-a36c-9ea0745fa3cd
+
+index.jsp
+file
+
+
+
+
+2008-10-30T18:35:45.000000Z
+96a9717f2ae8af9446275cd068b49fb4
+2008-09-30T22:11:53.645080Z
+362
+augie
+
+references.jsp
+file
+
+
+
+
+2008-10-30T18:35:45.000000Z
+3478043f27b7bb6341ac44c7582fe6f8
+2008-09-30T22:11:53.645080Z
+362
+augie
+

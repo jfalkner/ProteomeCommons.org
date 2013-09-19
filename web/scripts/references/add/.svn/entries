@@ -1,0 +1,79 @@
+8
+
+dir
+778
+svn://www.proteomecommons.org/svn/ProteomeCommons.org/web/scripts/references/add
+svn://www.proteomecommons.org/svn/ProteomeCommons.org
+
+
+
+2008-10-30T16:56:51.961535Z
+767
+augie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e919d280-83a1-4560-a36c-9ea0745fa3cd
+
+items
+dir
+
+addGroupReferences.jsp
+file
+
+
+
+
+2008-10-30T18:33:45.000000Z
+7b58be135bb18ca54e1eb71c37fb3f19
+2008-10-29T20:50:22.411406Z
+756
+augie
+
+addUserOrGroupReferences.jsp
+file
+
+
+
+
+2008-10-30T18:33:45.000000Z
+0d3161ba58400011f638f0b27045e402
+2008-10-29T20:24:07.343198Z
+755
+augie
+
+addUserReferences.jsp
+file
+
+
+
+
+2008-10-30T18:33:45.000000Z
+bbb62b2b8873e2d905280ccca69e85d1
+2008-10-29T20:50:22.411406Z
+756
+augie
+
+addReferences.jsp
+file
+
+
+
+
+2008-10-30T18:33:45.000000Z
+19dad34ae672008a9324e9d712c5acfa
+2008-10-29T20:50:22.411406Z
+756
+augie
+
